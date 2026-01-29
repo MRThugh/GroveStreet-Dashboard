@@ -37,10 +37,7 @@
 - Optional CPU temperature display (requires `lm-sensors`)
 - Zero external dependencies – 100% pure Bash
 - Exit gracefully with Ctrl+C
-
-### 📸 Preview
-
-(Upload your actual screenshot or animated GIF here to replace the placeholder)
+- 
 
 ### 🚀 Quick Start
 
